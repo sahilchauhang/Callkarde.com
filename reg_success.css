@@ -1,0 +1,73 @@
+body
+  {
+   margin: 0;
+   padding: 0;
+   background-image: url("assets/images/home-bg.jpg");
+   background-size: cover;
+   }
+.loginbox
+{
+ position: absolute;
+ top: 40%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ width: 450px;
+ height: 250px;
+ padding:40px;
+ box-sizing: border-box;
+ background: rgba(0,0,0,.5);
+ border-radius: 6px; 
+}
+
+h2 
+{
+ margin: 0;
+ padding: 0 0 20px;
+ color: #efed40;
+ text-align: center;
+}
+.loginbox input
+{
+width: 20%;
+ margin-bottom: 20px;
+ margin-left:150px;
+}
+.loginbox input[type="submit"]
+{
+ border: none;
+ outline: none;
+ height: 40px;
+ color: #fff;
+ font-size: 16px;
+ background: #ff276e;
+ cursor: pointer;
+ border-radius: 6px;
+ transition-duration: 0.4s;
+
+}
+.loginbox input[type="submit"]:hover
+{
+ background: #DC143C;
+ color: white;
+}
+ .logo
+ {
+	 margin-left: 30px; 
+	 margin-top: 30px;
+ }
+.loginbox p
+{
+ margin-left: 60px;
+ padding: 0;
+ color: white;
+}
+
+
+
+
+
+
+
+
+
+

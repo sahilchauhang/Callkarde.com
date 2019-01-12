@@ -1,0 +1,82 @@
+body
+  {
+   margin: 0;
+   padding: 0;
+   background-image: url("assets/images/home-bg.jpg");
+   background-size: cover;
+   }
+.logo{margin-left: 20px;margin-top: 0px;}
+
+p
+{
+	margin: 20px 20px 10px 1115px; 
+}
+
+.btn
+{
+	float:right;
+	margin-right:20px;
+	background-color: #ff276e;
+	border-radius: 4px;
+	color: white;
+	padding: 8px 16px;
+	text-align: center;
+	border: none;
+	cursor: pointer;
+	transition-duration: 0.4s;
+}
+.btn:hover
+{
+	background: #DC143C;
+	color: white;
+}
+.log
+{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 1150px;
+	height: 230px;
+	padding:40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	border-radius: 6px;
+}
+.rad
+{
+	display:inline;
+	margin-left:30px;
+	font-size:20px;
+}
+.txt
+{
+	margin-left:30px
+}
+input[type='submit']:hover
+{
+	background: #DC143C;
+	color: white;
+}
+input[type='submit']
+{
+	margin-left:30px;
+	background-color: #ff276e;
+	border-radius: 4px;
+	color: white;
+	padding: 8px 16px;
+	text-align: center;
+	border: none;
+	cursor: pointer;
+	transition-duration: 0.4s;
+}
+input[type="text"]
+{
+ border: none;
+ border-bottom: 1px solid #fff;
+ background: transparent;
+ outline: none;
+ height: 40px;
+ color: #fff;
+ font-size: 16px;
+} 	
