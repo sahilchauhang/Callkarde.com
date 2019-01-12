@@ -1,2 +1,2 @@
 # Callkarde.com
-Website to provide daily services
+ The objective of the project is an online platform where users will get basic home Services like Plumber, Electrician, Laundry, Mechanic, Carpenter, General Store, Stationery materials, Grocery store, Vegetable seller. In our daily life its seen that people will prefer online methods to get their desired service rather than to go on market and find them. So, our website is going to provide a platform to both users and professionals. Profession like Carpenter, General Store, etc. will get jobs easily with just by this web portal. And user will get their desired services.  
